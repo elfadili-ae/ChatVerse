@@ -75,6 +75,12 @@ import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
+import atlassian from "./companies/atlassian.svg";
+import gitlab from "./companies/gitlab.svg";
+import hubspot from './companies/hubspot.svg';
+import medium from "./companies/medium.svg";
+
+
 export {
   brainwave,
   check,
@@ -144,4 +150,8 @@ export {
   instagram,
   telegram,
   twitter,
+  atlassian,
+  gitlab,
+  hubspot,
+  medium,
 };
